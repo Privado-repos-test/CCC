@@ -1,6 +1,6 @@
 <h1 align="center">Currency Converter & Calculator</h1>
 
-<div align="center">
+<div align="center"> 
 
 A currency converter application for most of the currencies used in the world.
 
